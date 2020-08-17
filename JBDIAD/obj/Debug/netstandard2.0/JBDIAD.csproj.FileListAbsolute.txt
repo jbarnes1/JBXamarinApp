@@ -1,0 +1,13 @@
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\bin\Debug\netstandard2.0\JBDIAD.deps.json
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\bin\Debug\netstandard2.0\JBDIAD.dll
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\bin\Debug\netstandard2.0\ref\JBDIAD.dll
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\bin\Debug\netstandard2.0\JBDIAD.pdb
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\JBDIAD.csproj.CoreCompileInputs.cache
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\JBDIAD.AssemblyInfoInputs.cache
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\JBDIAD.AssemblyInfo.cs
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\JBDIAD.dll
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\ref\JBDIAD.dll
+C:\clients\UPS\UPS_Freight_Diad_Project\JB_Work\Xamarin_Dev\JBDIAD\JBDIAD\obj\Debug\netstandard2.0\JBDIAD.pdb
